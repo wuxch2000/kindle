@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cec2c51-cd8d-4272-a9de-7c5f9cf30fa8</dc:identifier>
+        <dc:title>邓小平时代</dc:title>
+        <dc:creator opf:file-as="Vogel, Ezra F" opf:role="aut">Vogel, Ezra F</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.0.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-05T16:00:00+00:00</dc:date>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;Vogel, Ezra F&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-10-28T17:37:10+00:00" name="calibre:timestamp"/>
+        <meta content="邓小平时代" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Deng Xiao Ping Shi Dai  - Vogel, Ezra F.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
